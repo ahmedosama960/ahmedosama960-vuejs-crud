@@ -20,8 +20,7 @@
               <div class="alert alert-danger errors notes" style="display:none" ></div>
             </div>
             <div class="form-group">
-              <label for="exampleInputPassword1">price</label>
-              
+              <label for="exampleInputPassword1">price</label>              
               <input
                 type="number"
                 v-model="product.price"

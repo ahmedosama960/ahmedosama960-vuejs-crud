@@ -33,5 +33,11 @@ body{
   color:aquamarine;
   text-decoration: none;
 }
-
+table{
+  background-color:white;
+  overflow: auto;
+}
+.card{
+  overflow: auto;
+}
 </style>
